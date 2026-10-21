@@ -1,5 +1,5 @@
 /* =========================================================
-   Common helpers used by every page
+   Common helpers used by every page.
    ========================================================= */
 
 const KEYS = {
